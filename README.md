@@ -5,7 +5,7 @@
 
 > **Simulation notice:** This is a simulated assessment based on fictional organisational details and assumed control gaps. It is not an actual security audit and contains no verified findings.
 
-**[Read the full report (PDF)](report/AI-Governance-Risk-Assessment.pdf)**
+**[Read the full report (PDF)](AI-Governance-Risk-Assessment.pdf)**
 
 ## Overview
 

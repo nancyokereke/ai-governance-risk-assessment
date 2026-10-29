@@ -1,0 +1,13 @@
+ID,Risk,Affected Departments,Likelihood,Impact,Inherent Score,Inherent Rating,NIST AI RMF Functions,NIST CSF 2.0 Categories,Treatment,Primary Owner,Residual Likelihood,Residual Impact,Residual Score,Residual Rating
+R-001,Sensitive information exposure through AI tools,All,4,4,16,High,"Govern, Map","PR.DS, PR.AT, GV.PO",Mitigate,IT/Security,2,4,8,Moderate
+R-002,Inaccurate or misleading AI-generated content,"Marketing, Support",4,4,16,High,"Measure, Manage","GV.PO, GV.RR",Mitigate,Marketing,2,4,8,Moderate
+R-003,Copyright and intellectual property infringement,"Marketing, Development",3,4,12,High,"Govern, Map","GV.OC, GV.PO",Mitigate,"Legal, Marketing, IT/Security",2,4,8,Moderate
+R-004,Unauthorised or unapproved AI tool usage,All,4,4,16,High,"Govern, Map","ID.AM, GV.PO",Mitigate,IT/Security,2,4,8,Moderate
+R-005,Overreliance on AI outputs without human verification,All,3,4,12,High,"Govern, Manage","GV.RR, PR.AT",Mitigate,"Department Heads, IT/Security",2,3,6,Moderate
+R-006,Exposure of customer information through AI integrations,"Support, Operations",3,5,15,High,"Map, Manage","PR.DS, GV.SC",Mitigate,"Customer Support, IT/Security, Privacy/Legal",2,5,10,High
+R-007,Insecure AI-generated code entering production,Development,3,5,15,High,"Measure, Manage","PR.PS, ID.RA",Mitigate,"Engineering, Application Security",2,4,8,Moderate
+R-008,Third-party AI provider security and privacy weaknesses,All,3,4,12,High,"Govern, Map","GV.SC, ID.RA",Mitigate,"IT/Security, Procurement, Legal",2,4,8,Moderate
+R-009,Prompt injection and data leakage through AI integrations,"Support, Operations, Development",3,4,12,High,"Map, Measure","PR.PS, DE.CM, ID.RA",Mitigate,"IT/Security, Application Security",2,3,6,Moderate
+R-010,Bias and discrimination in AI-assisted HR activities,HR,3,4,12,High,"Map, Measure, Manage","GV.OC, ID.RA",Mitigate,"HR, Legal",2,4,8,Moderate
+R-011,Regulatory and contractual non-compliance in AI use,All,3,4,12,High,Govern,"GV.OC, GV.PO",Mitigate,"Legal, Privacy",2,4,8,Moderate
+R-012,Absence of AI-specific incident response procedures,All,3,3,9,Moderate,Manage,"RS.MA, RS.CO, DE.AE",Mitigate,IT/Security,2,2,4,Low
